@@ -6,7 +6,7 @@
 
 # [Link Drive Laporan, Source Code, data lain](https://drive.google.com/drive/folders/1u14JEH-788Rw8WpoRyat7elAK3K3uOWO?usp=sharing)
 
-# [Link Laporan Pengerjaan UTS](https://drive.google.com/file/d/1dE2AEkmN_ZjsIjWhiRFjY-Km8r0ghZjh/view?usp=sharing)
+# [Link Laporan Pengerjaan UTS](https://drive.google.com/file/d/1v9T-pHVd6H_RfxVEPCdFLWGCiudb5Tgi/view?usp=sharing)
 
 ## Penjelasan UTS KSI RD
 1. Buka Web Matlab Menggunakan Matlab Online : matlab.mathworks.com
